@@ -32,9 +32,6 @@
 			<artifactId>maven-compiler-plugin</artifactId>
 			<configuration>
 				<encoding>ISO-8859-1</encoding>
-				<fork>true</fork>
-				<executable>${env.JAVA8}/bin/javac</executable>
-				<compilerVersion>1.8</compilerVersion>
 				<source>1.8</source>
 				<target>1.8</target>
 			</configuration>

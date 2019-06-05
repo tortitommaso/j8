@@ -3,6 +3,8 @@
 .project
 .settings/
 .svn/
+.idea/
+*.iml
 .metadata/
 target
 bin/
